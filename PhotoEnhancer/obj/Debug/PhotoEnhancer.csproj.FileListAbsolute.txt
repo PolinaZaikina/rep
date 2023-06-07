@@ -1,0 +1,11 @@
+C:\Users\zaiki\OneDrive\Рабочий стол\папка\PhotoEnhancer\PhotoEnhancer\bin\Debug\PhotoEnhancer.exe.config
+C:\Users\zaiki\OneDrive\Рабочий стол\папка\PhotoEnhancer\PhotoEnhancer\bin\Debug\PhotoEnhancer.exe
+C:\Users\zaiki\OneDrive\Рабочий стол\папка\PhotoEnhancer\PhotoEnhancer\bin\Debug\PhotoEnhancer.pdb
+C:\Users\zaiki\OneDrive\Рабочий стол\папка\PhotoEnhancer\PhotoEnhancer\obj\Debug\PhotoEnhancer.csproj.AssemblyReference.cache
+C:\Users\zaiki\OneDrive\Рабочий стол\папка\PhotoEnhancer\PhotoEnhancer\obj\Debug\PhotoEnhancer.csproj.SuggestedBindingRedirects.cache
+C:\Users\zaiki\OneDrive\Рабочий стол\папка\PhotoEnhancer\PhotoEnhancer\obj\Debug\PhotoEnhancer.MainForm.resources
+C:\Users\zaiki\OneDrive\Рабочий стол\папка\PhotoEnhancer\PhotoEnhancer\obj\Debug\PhotoEnhancer.Properties.Resources.resources
+C:\Users\zaiki\OneDrive\Рабочий стол\папка\PhotoEnhancer\PhotoEnhancer\obj\Debug\PhotoEnhancer.csproj.GenerateResource.cache
+C:\Users\zaiki\OneDrive\Рабочий стол\папка\PhotoEnhancer\PhotoEnhancer\obj\Debug\PhotoEnhancer.csproj.CoreCompileInputs.cache
+C:\Users\zaiki\OneDrive\Рабочий стол\папка\PhotoEnhancer\PhotoEnhancer\obj\Debug\PhotoEnhancer.exe
+C:\Users\zaiki\OneDrive\Рабочий стол\папка\PhotoEnhancer\PhotoEnhancer\obj\Debug\PhotoEnhancer.pdb
